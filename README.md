@@ -11,7 +11,7 @@
   ```
 * cypress
   ```sh
-  https://go.cypress.io/get-started
+  npm install cypress --save-dev
   ```
   
   
