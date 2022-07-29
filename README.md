@@ -6,15 +6,7 @@
 ### Prerequisites
 
 * npm
-  ```sh
-  npm install npm@latest -g
-  ```
-* cypress
-  ```sh
-  npm install cypress --save-dev
-  ```
-  
-  
+* node  
   
 ### Installation
 
@@ -24,14 +16,10 @@ Clone the repo
    ```
 Install NPM packages
    ```sh
-   npm install
-   ```
-Install Cypress via npm
-   ```sh
    cd /your/project/path
    ```
    ```sh
-   npm install cypress --save-dev
+   npm install
    ```
    
 ### Running Tests
